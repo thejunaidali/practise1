@@ -1,0 +1,13 @@
+1.Manual testing:- A Human tester manually tests the software, perfoming all the actions that the real users are supposed to take.
+
+2:- automated testing:-A software tool conduct the testing.programmatically excuting the code under the test.and verify the acutal output with the expected result.
+
+Question 1:- what is Automtion testing?
+answer:- Automation testing is a software testing strategy in which a tester programmatically runs the tests using a tool or a framework instead of manually 
+going through the test cases and executing them one by one.
+
+
+The primary goal of automated testing is to save time, effort, and money on repetitive tests that don’t change frequently.
+
+Automation testing helps teams and organizations automate the testing efforts, in turn reducing the need for human intervention and 
+thus achieving greater speed, reliability, and efficiency. It also helps speed up the development cycle, as the developers get quick feedback and can iterate quickly
